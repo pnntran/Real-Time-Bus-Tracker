@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .map-overlay {
+    position: absolute;
+    left: 0;
+    padding: 10px;
+  }
+  
+  button {
+    border-radius: 10px;
+    background: #ffd300;
+    padding: 1rem;
+    border: 0px;
+    box-shadow: 3px 3px 3px #888;
+    cursor: pointer;
+}
