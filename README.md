@@ -8,7 +8,9 @@ Roadmap: In the future, customizations could be added to add details to the bus 
 
 License information: 
 
-Copyright 2022. MIT.
+MIT License
+
+Copyright (c) 2022 Phuong Tran
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -18,7 +20,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-Copyright 2022. Mapbox GL.
+Copyright (c) 2022 Mapbox GL.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
